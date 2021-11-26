@@ -1,3 +1,5 @@
 In Burp, you can use regex such as ^.*?google\.com$ to include all subdomains in scope.
 
 ^.*?google\.com$
+
+site:*.*.at intext:security report reward bounty
